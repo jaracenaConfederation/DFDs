@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+Descuento
+1
+0
+11
+PrecioFinal
+1
+0
+6
+Precio
+1
+0
+4
+1
+16
+'Escriba Precio'
+5
+1
+6
+Precio
+6
+2
+9
+Descuento
+13
+Precio*15/100
+11
+PrecioFinal
+16
+Precio-Descuento
+4
+1
+23
+'Descuento: ',Descuento
+4
+1
+29
+'Precio Final: ', PrecioFinal
+1

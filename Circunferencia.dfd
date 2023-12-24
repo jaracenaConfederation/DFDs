@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+Pi
+6
+3.1416
+1
+R
+1
+0
+1
+L
+1
+0
+4
+1
+34
+'Escriba radio de circunferencia:'
+5
+1
+1
+R
+6
+1
+1
+L
+6
+2*Pi*R
+4
+1
+40
+'El radion de la circunferencia es: ', L
+1

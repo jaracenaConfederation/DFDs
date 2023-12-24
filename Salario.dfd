@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+15
+HorasTrabajadas
+1
+0
+9
+ValorHora
+1
+0
+7
+Salario
+1
+0
+4
+1
+18
+'Horas Trabajadas'
+5
+1
+15
+HorasTrabajadas
+4
+1
+16
+'Valor por Hora'
+5
+1
+9
+ValorHora
+6
+1
+7
+Salario
+25
+HorasTrabajadas*ValorHora
+4
+1
+26
+'El salario es: ', Salario
+1
